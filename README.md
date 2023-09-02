@@ -1,6 +1,6 @@
 # 🌟 Personal Portfolio Website
 
-[![Watch the tutorial](https://img.shields.io/badge/Watch%20the%20tutorial-5%20Minute%20Portfolio%20Video-blue)](https://youtu.be/5-_2z-DdWng)
+[![Watch the tutorial](https://img.shields.io/badge/Watch%20the%20tutorial-blue)](https://youtu.be/5-_2z-DdWng)
 
 ### 🌟 Personal Portfolio Website
 
