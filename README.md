@@ -12,3 +12,5 @@
 - I later extended the design to the desktop, creating a seamless user interface.
 
 🚀 Special thanks to [Bedimcode](https://www.youtube.com/c/Bedimcode) for the amazing tutorial!
+
+Click [here](https://rulkimi.github.io/azrul-portfolio/) to go to the portfolio.
