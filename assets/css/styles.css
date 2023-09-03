@@ -854,6 +854,7 @@ body.dark-theme {
   justify-content: center;
   align-items: center;
   font-size: 45px;
+  color: black;
   cursor: pointer;
   border: 1px solid black;
 }
