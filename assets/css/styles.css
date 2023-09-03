@@ -157,6 +157,10 @@ body.dark-theme {
   background-color: hsl(207, 4%, 35%);
 }
 
+.dark-theme .calculator .number-display {
+  color: rgb(255, 252, 252);
+}
+
 /*=============== REUSABLE CSS CLASSES ===============*/
 .container {
   max-width: 1024px;
