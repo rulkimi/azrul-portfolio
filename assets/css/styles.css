@@ -1333,10 +1333,27 @@ body.dark-theme {
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
-@media screen and (max-width: 340px) {
+@media screen and (max-width: 576px) {
   .container {
     margin-inline: 1rem;
   }
+
+  .wheels {
+    width: 300px;
+    height: 300px;
+  }
+
+  .small-projects__container {
+    display: flex;
+    flex-direction: column; /* Stack content vertically */
+    align-items: center; /* Center horizontally */
+    justify-content: center; /* Center vertically */
+    text-align: center; /* Center text within the container */
+  }
+
+  /* .small-projects__content {
+
+  } */
 
   .nav_menu {
     padding-bottom: 4rem;
